@@ -1,0 +1,26 @@
+{
+  "name": "tfjs-exponential-functions",
+  "version": "1.0.0",
+  "description": "Try to predict exponenitial functions parameters with data sets within Tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "train": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/tfjs-exponential-functions.git"
+  },
+  "keywords": [
+    "tfjs",
+    "Tensorflow"
+  ],
+  "author": "aleen42 <aleen42@vip.qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/tfjs-exponential-functions/issues"
+  },
+  "homepage": "https://github.com/aleen42/tfjs-exponential-functions#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.15.2"
+  }
+}
